@@ -1,1 +1,0 @@
-python train/train_ycp_DconnNet_finall.py --checkpoint ./pretrained_checkpoint/sam_vit_l_0b3195.pth  --model-type vit_l --output work_dirs_final/output_8DA/ --world_size 1 --batch_size_train 1 --batch_size_valid 2 --visualize --max_epoch_num 30  --find_unused_params  
