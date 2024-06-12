@@ -1,0 +1,1 @@
+python train/train_ycp_DconnNet_finall.py --checkpoint ./pretrained_checkpoint/sam_vit_l_0b3195.pth --model-type vit_l --eval --restore-model work_dirs_final/output_loss5/epoch_24.pth   --output ./work_dirs_final/result_mask/output_loss5 --visualize
