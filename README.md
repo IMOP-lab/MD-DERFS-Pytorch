@@ -38,7 +38,7 @@
 
 ### MLFA
 <div align=center>
-  <img src="https://github.com/IMOP-lab/MD-DERFS-Pytorch/blob/main/figures/MLFA.png"width=80% height=80%>
+  <img src="https://github.com/IMOP-lab/MD-DERFS-Pytorch/blob/main/figures/MLFA.png">
 </div>
 <p align=center>
   Fig. 5: The network structure diagram of MLFA. The module consists of two stages, each incorporating a dilated convolution layer followed by a BN layer and a ReLU activation function. Between these stages, an upsampling layer is employed to increase the spatial resolution of the feature maps. This architecture aims to capture multi-scale features effectively by leveraging dilated convolutions and subsequent upsampling. 
